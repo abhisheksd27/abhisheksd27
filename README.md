@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksd27&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksd27" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksd27" alt="abhisheksd27" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/abhisheksdevad5" target="blank"><img src="https://img.shields.io/twitter/follow/abhisheksdevad5?logo=twitter&style=for-the-badge" alt="abhisheksdevad5" /></a> </p>
 
 - 🔭 I’m currently working on [Event Management System](https://github.com/abhisheksd27/incomeandexpensetracker)
@@ -14,6 +16,8 @@
 - 💬 Ask me about **JavaScript and Python**
 
 - 📫 How to reach me **abhisheksdevadioga271@gmail.com**
+
+- ⚡ Fun fact **I'm Nan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksd27&show_icons=true&locale=en&layout=compact" alt="abhisheksd27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksd27&show_icons=true&locale=en" alt="abhisheksd27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksd27&" alt="abhisheksd27" /></p>
