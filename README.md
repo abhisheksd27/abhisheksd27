@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning React and Node jS<br>
 
-👨‍💻 All of my projects are available at [https://abhisheksd27.github.io/AbhishekShankar/](https://abhisheksd27.github.io/MYWEBSITE/)
+👨‍💻 All of my projects are available at [https://abhisheksd27.github.io/AbhishekShankar/](https://abhisheksd27.github.io/AbhishekShankar/)
 
 💬 Ask me about **JavaScript and Python**
 
