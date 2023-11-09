@@ -18,7 +18,6 @@
 📫 How to reach me **abhisheksdevadioga271@gmail.com**
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
 <div>
 <span><a href = 'https://https://linkedin.com/in/abhishekshanakar27'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </span>
 <span><a href = 'https://twitter.com/AbhishekSDevad5'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> </span>
@@ -34,6 +33,7 @@
 <a href= https://github.com/abhisheksd27?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/abhisheksd27?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/abhisheksd27?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<h2></h2>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhisheksd27&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
