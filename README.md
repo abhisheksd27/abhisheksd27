@@ -22,7 +22,7 @@
 <div>
 <span><a href = 'https://https://linkedin.com/in/abhishekshanakar27'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </span>
 <span><a href = 'https://twitter.com/AbhishekSDevad5'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> </span>
-<span><a href = 'https://github.com/Fazman-s'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> </span>
+<span><a href = 'https://github.com/abhisheksd27'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> </span>
 </div>
 
 <h2></h2>
