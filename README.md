@@ -6,7 +6,7 @@
 <h1>🤖💻🧑‍💻</h1>
 
 
-# 💫 About Me:
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 🔭 I’m currently working on Full Stack projects and DSA in Python<br>
 
 👯 I’m looking to collaborate on Open Source Projects<br>
