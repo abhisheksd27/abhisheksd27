@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Project Ideas**
 
-- 👨‍💻 All of my projects are available at [https://abhisheksd27.github.io/AbhiBytes/](https://abhisheksd27.github.io/AbhiBytes/)
+- 👨‍💻 All of my projects are available at [https://abhishekshankar.onrender.com/](https://abhishekshankar.onrender.com/)
 
-- 📝 I regularly write articles on [https://abhisheksd27.github.io/AbhiBytes/](https://abhisheksd27.github.io/AbhiBytes/)
+- 📝 I regularly write articles on [https://abhishekshankar.onrender.com/](https://abhishekshankar.onrender.com/)
 
 - 💬 Ask me about **React, JS, Python etc**
 
