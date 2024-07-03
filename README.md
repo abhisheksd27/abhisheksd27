@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhisheksdevad6" target="blank"><img src="https://img.shields.io/twitter/follow/abhisheksdevad6?logo=twitter&style=for-the-badge" alt="abhisheksdevad6" /></a> </p>
 
-- 🔭 I’m currently working on [Authentication App](https://github.com/abhisheksd27/Authentication-MERN-project)
+- 🔭 I’m currently working on [PropertEase](https://github.com/abhisheksd27/PropertEase)
 
 - 🌱 I’m currently learning **NextJS and NOdeJs**
 
