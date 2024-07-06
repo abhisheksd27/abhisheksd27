@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **abhisheksdevadiga271@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mNAxviNZrBFJtFQcEk7Sqvo0yFg44mO3/view?usp=sharing](https://drive.google.com/file/d/1mNAxviNZrBFJtFQcEk7Sqvo0yFg44mO3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mNAxviNZrBFJtFQcEk7Sqvo0yFg44mO3/view?usp=sharing](https://drive.google.com/file/d/1Gk2uFfxRGkNV8lfT1MhKEg7jtS_E-hEE/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
