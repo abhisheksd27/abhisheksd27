@@ -60,10 +60,10 @@ Created a road accident prediction model to enhance road safety.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Full stack  Project  
+- 🔭 I’m currently working on Full stack application 
   
 
-- 🌱 I’m currently learning ReactJS and NodeJs  
+- 🌱 I’m currently learning React Native
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
