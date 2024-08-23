@@ -118,8 +118,6 @@ Created a road accident prediction model to enhance road safety.
             </a>
             <br />Docker
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://www.typescriptlang.org/" target="_blank">
                 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="100" height="100" />
@@ -132,6 +130,8 @@ Created a road accident prediction model to enhance road safety.
             </a>
             <br />MongoDB
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://www.python.org/" target="_blank">
                 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="100" height="100" />
@@ -150,8 +150,6 @@ Created a road accident prediction model to enhance road safety.
             </a>
             <br />Bash
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://flask.palletsprojects.com/" target="_blank">
                 <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" width="100" height="100" />
@@ -176,14 +174,14 @@ Created a road accident prediction model to enhance road safety.
             </a>
             <br />Linux
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://sass-lang.com/" target="_blank">
                 <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="100" height="100" />
             </a>
             <br />Sass
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://firebase.google.com/" target="_blank">
                 <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="100" height="100" />
@@ -214,14 +212,14 @@ Created a road accident prediction model to enhance road safety.
             </a>
             <br />.NET
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
                 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="100" height="100" />
             </a>
             <br />HTML5
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://www.mysql.com/" target="_blank">
                 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="100" height="100" />
@@ -246,8 +244,6 @@ Created a road accident prediction model to enhance road safety.
             </a>
             <br />OpenCV
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://www.adobe.com/in/products/xd.html" target="_blank">
                 <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" width="100" height="100" />
@@ -266,6 +262,8 @@ Created a road accident prediction model to enhance road safety.
             </a>
             <br />Node.js
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://www.postgresql.org/" target="_blank">
                 <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="100" height="100" />
@@ -278,8 +276,6 @@ Created a road accident prediction model to enhance road safety.
             </a>
             <br />NumPy
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://pandas.pydata.org/" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100" height="100" />
@@ -312,6 +308,7 @@ Created a road accident prediction model to enhance road safety.
         </td>
     </tr>
 </table>
+
 
 
 
