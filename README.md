@@ -176,8 +176,10 @@ Created a road accident prediction model to enhance road safety.
   
 
 <br/>  
+![Profile views](https://komarev.com/ghpvc/?username=abhishekshankar27082002&&style=flat-square)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=abhisheksd27&&style=flat-square)  
+
+ 
   
 
 
