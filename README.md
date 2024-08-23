@@ -142,6 +142,9 @@ Created a road accident prediction model to enhance road safety.
 
 <br/>  
 
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode&query=ranking&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FFirewallFox)
+
+
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
