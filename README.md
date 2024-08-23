@@ -86,7 +86,7 @@ Created a road accident prediction model to enhance road safety.
 
 
 ## Languages and Tools  
-<table>
+<table style="width: 100%; border-collapse: collapse; background-color: #f0f0f0;">
     <tr>
         <td align="center">
             <a href="https://reactjs.org/" target="_blank">
