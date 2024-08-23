@@ -148,9 +148,12 @@ Created a road accident prediction model to enhance road safety.
   
 ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode&query=ranking&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FFirewallFox)
 <br/>
+<br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/FirewallFox/)
 <br/>
+<br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FireWallFox?theme=dark&font=Tiro%20Kannada&ext=contest&width=800)
+<br/>
 <br/>
 
 </td></tr></table> 
@@ -167,6 +170,7 @@ Created a road accident prediction model to enhance road safety.
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhisheksd27&show_icons=true&count_private=true&hide_border=true&bg_color=000000" align="left" style="width: 110%" />
+<br/>
 
 
 </td><td valign="top" width="50%">
