@@ -148,6 +148,9 @@ Created a road accident prediction model to enhance road safety.
 <br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FireWallFox?theme=dark&font=Tiro%20Kannada&ext=contest&width=500)
 
+<br/>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abhishekshankar27082002)](https://codeforces.com/profile/abhishekshankar27082002)
+
 
 
 
