@@ -147,7 +147,7 @@ Created a road accident prediction model to enhance road safety.
 <br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/FirewallFox/)
 <br/>
-![LeetCode Stats](https://leetcard.jacoblin.cool/FireWallFox?theme=dark&font=Tiro%20Kannada&ext=contest&width=1000)
+![LeetCode Stats](https://leetcard.jacoblin.cool/FireWallFox?theme=dark&font=Tiro%20Kannada&ext=contest&width=800)
 
 <br/>
 
