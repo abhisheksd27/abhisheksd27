@@ -151,7 +151,8 @@ Created a road accident prediction model to enhance road safety.
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksd27&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksd27&hide_border=true&layout=compact&bg_color=000000" align="left" style="width: 100%" />
+
 
 </td></tr></table>  
 
@@ -164,10 +165,5 @@ Created a road accident prediction model to enhance road safety.
 ![Profile views counter](https://komarev.com/ghpvc/?username=abhisheksd27&&style=flat-square)  
   
 
-<br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
