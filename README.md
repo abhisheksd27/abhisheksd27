@@ -147,7 +147,8 @@ Created a road accident prediction model to enhance road safety.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FireWallFox?theme=dark&font=Tiro%20Kannada&ext=activity)
 
 <br/>
-![LeetCode Stats](https://leetcard.jacoblin.cool/FireWallFox?theme=dark&font=Tiro%20Kannada&ext=contest.)
+![LeetCode Stats](https://leetcard.jacoblin.cool/FireWallFox?theme=dark&font=Tiro%20Kannada&ext=contest)
+
 
 
 
