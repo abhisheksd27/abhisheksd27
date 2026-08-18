@@ -1,354 +1,173 @@
-## Hey 👋, I'm Abhishek Shankar  
-  
-
-<a href="https://twitter.com/FirewallFox27" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/abhishekshankar27" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Abhishek" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/firewallfox" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/26405261/abhishek-shankar" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/abhishek._shankar" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@FirewallFox27" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-
-  
-
-
-
-### Glad to see you here!  
-💻 I'm a full-stack developer specializing in building robust and scalable applications.
-
-🎓 Strong foundation in Information Science and Engineering.
-
-👨‍💻 Honed skills in both backend and frontend development through various internships and projects.
-
-🚀 Expertise includes API development, backend-frontend integration, and implementing secure authentication systems.
-
-⚛️ Extensive experience with frameworks like React.js, ExpressJS, NodeJS, Flask, and Django.
-
-📊 Proficient in libraries such as NumPy, Pandas, and Matplotlib.
-
-🤖 Delved into machine learning, gaining proficiency in algorithms like KNN, Decision Trees, and Gaussian Naive Bayes.
-
-📝 Projects reflect a blend of innovation and practical application:
-Developed a feature-rich personal blog with advanced functionalities.
-Created a road accident prediction model to enhance road safety.
-
-🏅 Passionate about solving real-world problems through technology.
-
-🚀 Participated in the Smart India Hackathon 2022, showcasing innovation and problem-solving skills.
-
-🛠️ Technical skills span Python, C/C++, JavaScript, HTML/CSS, and more.
-
-🌱 Continuously learning and applying new technologies, with a focus on delivering high-quality solutions.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Full stack application 
-  
-
-- 🌱 I’m currently learning React Native
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjy7tSiCdkGwhuPGHi20EbxVNaAZOiZrTajA&s" align="center" style="width: 100%" />
-</div>  
 
+# Hey there, I'm Abhishek Shankar 👋
+### Full-Stack Developer & Data / Cloud Engineer 🚀
 
-</td></tr></table>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekshankar27)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhisheksd27)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/FirewallFox27)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/firewallfox)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/26405261/abhishek-shankar)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FirewallFox27)
 
-<br/>  
-
-
-## Languages and Tools  
-<table style="width: 100%; border-collapse: collapse; background-color: white;">
-    <tr>
-        <td align="center">
-            <a href="https://reactjs.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="100" height="100" />
-            </a>
-            <br />React
-        </td>
-        <td align="center">
-            <a href="https://www.w3schools.com/css/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="100" height="100" />
-            </a>
-            <br />CSS3
-        </td>
-        <td align="center">
-            <a href="https://www.javascript.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="100" height="100" />
-            </a>
-            <br />JavaScript
-        </td>
-        <td align="center">
-            <a href="https://www.cplusplus.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="100" height="100" />
-            </a>
-            <br />C++
-        </td>
-        <td align="center">
-            <a href="https://www.docker.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="100" height="100" />
-            </a>
-            <br />Docker
-        </td>
-        <td align="center">
-            <a href="https://www.typescriptlang.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="100" height="100" />
-            </a>
-            <br />TypeScript
-        </td>
-        <td align="center">
-            <a href="https://www.mongodb.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="100" height="100" />
-            </a>
-            <br />MongoDB
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://www.python.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="100" height="100" />
-            </a>
-            <br />Python
-        </td>
-        <td align="center">
-            <a href="https://expressjs.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="100" height="100" />
-            </a>
-            <br />Express.js
-        </td>
-        <td align="center">
-            <a href="https://www.gnu.org/software/bash/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="100" height="100" />
-            </a>
-            <br />Bash
-        </td>
-        <td align="center">
-            <a href="https://flask.palletsprojects.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" width="100" height="100" />
-            </a>
-            <br />Flask
-        </td>
-        <td align="center">
-            <a href="https://www.apachefriends.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" width="100" height="100" />
-            </a>
-            <br />XAMPP
-        </td>
-        <td align="center">
-            <a href="https://www.chartjs.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" width="100" height="100" />
-            </a>
-            <br />Chart.js
-        </td>
-        <td align="center">
-            <a href="https://www.linux.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="100" height="100" />
-            </a>
-            <br />Linux
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://sass-lang.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="100" height="100" />
-            </a>
-            <br />Sass
-        </td>
-        <td align="center">
-            <a href="https://firebase.google.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="100" height="100" />
-            </a>
-            <br />Firebase
-        </td>
-        <td align="center">
-            <a href="https://www.arduino.cc/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="100" height="100" />
-            </a>
-            <br />Arduino
-        </td>
-        <td align="center">
-            <a href="https://angular.io/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="100" height="100" />
-            </a>
-            <br />Angular
-        </td>
-        <td align="center">
-            <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="100" height="100" />
-            </a>
-            <br />Bootstrap
-        </td>
-        <td align="center">
-            <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" width="100" height="100" />
-            </a>
-            <br />.NET
-        </td>
-        <td align="center">
-            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="100" height="100" />
-            </a>
-            <br />HTML5
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://www.mysql.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="100" height="100" />
-            </a>
-            <br />MySQL
-        </td>
-        <td align="center">
-            <a href="https://redux.js.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="100" height="100" />
-            </a>
-            <br />Redux
-        </td>
-        <td align="center">
-            <a href="https://github.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="100" height="100" />
-            </a>
-            <br />Git
-        </td>
-        <td align="center">
-            <a href="https://opencv.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" width="100" height="100" />
-            </a>
-            <br />OpenCV
-        </td>
-        <td align="center">
-            <a href="https://www.adobe.com/in/products/xd.html" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" width="100" height="100" />
-            </a>
-            <br />Adobe XD
-        </td>
-        <td align="center">
-            <a href="https://wordpress.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="100" height="100" />
-            </a>
-            <br />WordPress
-        </td>
-        <td align="center">
-            <a href="https://nodejs.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100" />
-            </a>
-            <br />Node.js
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://www.postgresql.org/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="100" height="100" />
-            </a>
-            <br />PostgreSQL
-        </td>
-        <td align="center">
-            <a href="https://numpy.org/" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="100" height="100" />
-            </a>
-            <br />NumPy
-        </td>
-        <td align="center">
-            <a href="https://pandas.pydata.org/" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100" height="100" />
-            </a>
-            <br />Pandas
-        </td>
-        <td align="center">
-            <a href="https://matplotlib.org/" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="100" height="100" />
-            </a>
-            <br />Matplotlib
-        </td>
-        <td align="center">
-            <a href="https://www.djangoproject.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" width="100" height="100" />
-            </a>
-            <br />Django
-        </td>
-        <td align="center">
-            <a href="https://www.tableau.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/tableau-icon.svg" alt="Tableau" width="100" height="100" />
-            </a>
-            <br />Tableau
-        </td>
-        <td align="center">
-            <a href="https://code.visualstudio.com/" target="_blank">
-                <img src="https://profilinator.rishav.dev/skills-assets/visualstudio_code-1.svg" alt="VS Code" width="100" height="100" />
-            </a>
-            <br />VS Code
-        </td>
-    </tr>
-</table>
-
-
-
-
-
-<br/>  
-
-
-
-
-
-
-
-
-
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhisheksd27&show_icons=true&count_private=true&hide_border=true&bg_color=000000" align="left" style="width: 110%" />
 <br/>
 
+> *“Transforming complex data and system requirements into resilient, high-performance distributed architectures and full-stack applications.”*
 
-</td><td valign="top" width="50%">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksd27&hide_border=true&layout=compact&bg_color=000000" align="left" style="width: 100%" />
+---
 
+### 👨‍💻 About Me
 
-</td></tr></table>  
+- 🎓 **Background:** Information Science and Engineering with a focus on scalable systems, data pipelines, and machine learning.
+- 🛠️ **Full-Stack & Systems:** Experienced in developing microservices, high-concurrency RESTful APIs, and responsive frontends with React, Node.js, Express, Flask, and Django.
+- ⚡ **Data Engineering & Cloud:** Architecting end-to-end Medallion data lakes, real-time streaming engines (Kafka, Spark), and cloud warehouses (GCP BigQuery, dbt, Airflow).
+- 🏆 **Hackathons & Real-World Impact:** Smart India Hackathon (SIH) 2022 participant with a focus on innovative problem-solving and production-ready deployments.
+- 🔭 **Current Focus:** Real-time data streaming architectures, distributed pipelines, and React Native ecosystem.
+- ⚡ **Fun Fact:** My night shift mode is permanently switched on.
 
-<br/>  
+---
 
-  
+### 🌟 Featured Projects
 
-<br/>  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/abhisheksd27/DataNexus">DataNexus — E-Commerce Data Platform</a></h3>
+      <p><b>Production-Grade Real-Time Streaming & Intelligence Platform</b></p>
+      <ul>
+        <li>Built an end-to-end Medallion data lake and warehouse using <b>Apache Kafka, Debezium CDC, Apache Spark, and Apache Airflow</b>.</li>
+        <li>Implemented cloud ELT/ETL feeding into <b>GCP BigQuery</b> with transformations orchestrated via <b>dbt</b> and data assertions via <b>Great Expectations</b>.</li>
+        <li>Containerized microservices with <b>Docker</b> and provisioned cloud infrastructure with <b>Terraform</b>.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Road Accident Prediction & Safety Analytics</h3>
+      <p><b>Machine Learning & Geospatial Safety Modeling</b></p>
+      <ul>
+        <li>Engineered predictive classification models (KNN, Decision Trees, Gaussian Naive Bayes) to identify high-risk traffic accident patterns.</li>
+        <li>Conducted extensive exploratory data analysis (EDA) using <b>NumPy, Pandas, and Matplotlib/Seaborn</b> to derive actionable accident mitigation metrics.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Scalable Full-Stack Web Applications</h3>
+      <p><b>Modular MERN & Microservice Ecosystems</b></p>
+      <ul>
+        <li>Designed full-stack platforms featuring secure JWT authentication, role-based access control, and asynchronous API handlers.</li>
+        <li>Integrated complex database schemas across <b>PostgreSQL, MongoDB, and MySQL</b> with optimized indexing and relational mapping.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Smart India Hackathon (SIH) 2022</h3>
+      <p><b>National Innovation & Applied Problem Solving</b></p>
+      <ul>
+        <li>Collaborated in high-pressure agile sprints to engineer functional prototypes addressing real-world civic and operational challenges.</li>
+        <li>Architected backend integration pipelines and interactive user dashboards.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Hackathon-SIH_2022-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Full_Stack-Engineering-blue?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
+---
 
+### 🛠️ Technical Skills
 
- 
-  
+<details open>
+<summary><b>Languages & Core</b></summary>
+<br/>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+</details>
 
+<details open>
+<summary><b>Frameworks & Full-Stack Development</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Data Engineering, Cloud & Analytics</b></summary>
+<br/>
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![GCP BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Databases, DevOps & Tools</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</details>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksd27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksd27&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abhisheksd27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's build something remarkable together. Feel free to connect on <a href="https://linkedin.com/in/abhishekshankar27">LinkedIn</a>!</sub>
+</div>
