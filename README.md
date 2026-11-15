@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek Shankar 👋
+# Hi, I'm Abhishek Shankar 👋. 
 
 **Data Engineer · Associate Software Engineer at Accenture · Bengaluru, India**
 
