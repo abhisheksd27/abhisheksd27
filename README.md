@@ -14,7 +14,7 @@ I build data pipelines, investigate production failures, and turn raw data into 
 - **Current focus:** AWS deployment and cloud validation for ShopLakehouse, following its local pipeline implementation.
 
 ## Experience
-
+  
 **Accenture — Associate Software Engineer, Data Engineering**  
 September 2024–Present · Bengaluru
 
