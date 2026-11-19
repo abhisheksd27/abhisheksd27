@@ -6,7 +6,7 @@ I build data pipelines, investigate production failures, and turn raw data into 
 
 [Portfolio](https://www.abhishekshankar.in/) · [LinkedIn](https://www.linkedin.com/in/abhishekshankar27/) · [LeetCode](https://leetcode.com/u/ABHISHEKSHANKAR27/) · [Email](mailto:abhishekdshankar@gmail.com)
 
-## What I work on. 
+## What I work on.   
 
 - **Data engineering:** ETL/ELT pipelines, data modeling, validation, and warehouse transformations.
 - **Production reliability:** Root-cause analysis, recurring job fixes, deployment support, and workflow monitoring.
