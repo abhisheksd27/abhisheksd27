@@ -11,7 +11,7 @@ I build data pipelines, investigate production failures, and turn raw data into 
 - **Data engineering:** ETL/ELT pipelines, data modeling, validation, and warehouse transformations.
 - **Production reliability:** Root-cause analysis, recurring job fixes, deployment support, and workflow monitoring.
 - **Portfolio projects:** Weather analytics, e-commerce lakehouses, and urban mobility data platforms.
-- **Current focus:** AWS deployment and cloud validation for ShopLakehouse, following its local pipeline implementation.
+- **Current focus:** AWS deployment and cloud validation for ShopLakehouse, following its local pipeline implementation.   
 
 ## Experience
   
